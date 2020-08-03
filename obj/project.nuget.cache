@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EWZsgyW2p3NXoEq14KXw/jLqPWhcHeABEJf1WcRw2N4yij02y7OECRnCLus/CbMZ+fMFB+EQe35RB5WTfmHyzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Curtis\\source\\repos\\Capstone2\\Capstone2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Curtis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
